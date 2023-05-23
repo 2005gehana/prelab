@@ -1,0 +1,52 @@
+<html>
+    <body>
+        <h1 align="center"> <u><b>Resume</b></u></h1>
+        <hr>
+        <img src="IMG_20230207_141801.jpg"  align="right" height="90" width="90">
+        <p align="left">Gehana Pandiya<br>
+        Computer Science and Engineering<br>
+        phn no.=9561******<br>
+        Behind sumit lodge,satawa mata mandir ,saoner.<br>
+        <u> gehanap.aiml22@sbjit.edu.in</u> </p>
+        <hr>
+        <b><u>Career objective</u></b><br><br>
+        Obtain a responsible position in an organisation with the best capabilities, skills and knowledge.<br><br><br>
+        
+        <b><u>Academic  Qualification</u></b><br><br>
+        <table border="2">
+            <tr>
+                <th>Qualification</th>
+                <th>University</th>
+                <th>Percentage</th>
+                <th>Year of Passing</th>
+            </tr>
+            <tr>
+                <th>SSC</th>
+                <th>Saraswat Public School</th>
+                <th>87%</th>
+                <th>2020</th>
+            </tr>
+            <tr>
+                <th>HSC</th>
+                <th>Bhalerao Jr. Science College</th>
+                <th>86%</th>
+                <th>2022</th>
+            </tr>
+            
+        </table><br><br>
+        <b><u>Skills</u></b>
+        <li>C lang</li>
+        <li>Web Development</li><br><br>
+        <b><u>Personal Details</u></b>
+        <br>Father's name:Ravi Pandiya
+        <br>Date of birth:02/03/2005
+        <br>Gender:Female 
+         <br>Nationality:Indian 
+         <br>Maritual Status:Unmarried 
+         <br>Language Known:English & Hindi 
+         <br>Hobbies:Singing/Cooking/Listening music/travelling
+         <br><br>
+         <b><h4>Place=Saoner</h4></b>
+        <b><h4>Date=20/05/2023</h4></b>
+    </body>
+</html>
